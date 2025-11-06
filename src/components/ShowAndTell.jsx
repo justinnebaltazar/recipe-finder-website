@@ -19,18 +19,18 @@ export const ShowAndTell = () => {
             </a>
           </li>
           <li>
-            <a href="/MVVM.png" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
+            <a href="/recipe-finder/MVVM.png" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
               MVVM Diagram
             </a>
           </li>
           <li>
-            <a href="https://www.figma.com/design/suwwKM9EX4HdIAFImg5rF6/RecipeFinder-Mockup?node-id=0-1&t=lawQtfMAyrUWKaT1-1" target="_blank"  rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
+            <a href="/recipe-finder/recipe_finder_mockup.png" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
               UI Mockup
             </a>
           </li>
           {/* update presentation slides */}
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
+            <a href="/recipe-finder/recipe_finder_slides.pdf" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
               Presentation Slides
             </a>
           </li>
@@ -40,7 +40,7 @@ export const ShowAndTell = () => {
         <div className="relative aspect-video w-full">
           <iframe
             className="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
-            src="https://www.youtube.com/embed/acMp5X_yo6s?si=7LwDX7ESAeke1gZx"
+            src="https://www.youtube.com/embed/DwQtCBHrcr8?si=JFinV_qzBfGzUys_"
             title="YouTube video player"
             allowFullScreen
           ></iframe>
