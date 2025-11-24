@@ -14,7 +14,7 @@ export const ShowAndTell2 = () => {
         {/* buttons / links */}
         <ul className="flex flex-wrap gap-4 mb-10">
           <li>
-            <a href="/recipe-finder/RecipeFinder.apk" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
+            <a href="/recipe-finder/RecipeFinder_ST2.apk" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
               Project APK
             </a>
           </li>
@@ -35,7 +35,7 @@ export const ShowAndTell2 = () => {
           </li>
           {/* update presentation slides */}
           <li>
-            <a href="/recipe-finder/recipe_finder_slides.pdf" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
+            <a href="/recipe-finder/recipe_finder_st2.pdf" target="_blank" rel="noopener noreferrer" className="px-4 py-2 rounded-lg bg-white shadow hover:shadow-md transition">
               Presentation Slides
             </a>
           </li>
@@ -45,7 +45,7 @@ export const ShowAndTell2 = () => {
         <div className="relative aspect-video w-full">
           <iframe
             className="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
-            src="https://www.youtube.com/embed/DwQtCBHrcr8?si=JFinV_qzBfGzUys_"
+            src="https://www.youtube.com/embed/sjmdLYCOLS4?si=c9R353Yz9PyfH0bl"
             title="YouTube video player"
             allowFullScreen
           ></iframe>
