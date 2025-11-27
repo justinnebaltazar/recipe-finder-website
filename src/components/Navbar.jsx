@@ -16,8 +16,8 @@ export const Navbar = () => {
 
     const navLinks = [
       { name: "Project Pitch", path: "#project-pitch" },
-      { name: "Show and Tell 1", path: "#show-and-tell-1" }, 
-      { name: "Show and Tell 2", path: "#show-and-tell-2"}
+      { name: "Download", path: "#download"},
+      { name: "Previous Milestones", path: "/recipe-finder/project-milestones" }
     ]
 
     return (
@@ -25,7 +25,7 @@ export const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6 py-3">
         
         {/* project title */}
-        <p className="font-semibold text-lg">Recipe Finder</p>
+        <p className="font-semibold text-lg"><a href="/recipe-finder/">Recipe Finder</a></p>
     
         <button 
           className="lg:hidden text-2xl"
