@@ -63,7 +63,7 @@ export const FinalPresentation = () => {
           </li>
           <li>
             <a 
-              href="/recipe-finder/recipe_finder_final.pdf" 
+              href="/recipe-finder/RecipeFinder_FinalPresentation.pdf" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="px-4 py-2 rounded-lg text-white bg-[#06402B] shadow hover:shadow-md transition"
@@ -77,7 +77,7 @@ export const FinalPresentation = () => {
         <div className="relative aspect-video w-full">
           <iframe
             className="absolute top-0 left-0 w-full h-full rounded-lg shadow-lg"
-            src="https://www.youtube.com/embed/sjmdLYCOLS4?si=c9R353Yz9PyfH0bl"
+            src="https://www.youtube.com/embed/xqTIxXo4XIs?si=yllefuqiMCDLGOgc"
             title="YouTube video player"
             allowFullScreen
           ></iframe>
